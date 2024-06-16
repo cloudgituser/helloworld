@@ -10,6 +10,7 @@
 		<input type="textbox"/>
      <button> Submit <button>
 <a>THis si the input</a>
+     <input type="checkbox"/>
 		</h1>
 </body>
 </html>
